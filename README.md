@@ -73,6 +73,7 @@ There are many different types of memory. They are all helpful in different situ
 ## Documentation
 [1] Custom Memory : https://python.langchain.com/docs/modules/memory/custom_memory
 [2] Multiple Memory Classes: https://python.langchain.com/docs/modules/memory/multiple_memory
+[3] The Lang Chain Cookbook: https://www.youtube.com/watch?v=2xxziIWmaSA&t=7s
 
 ## Code of Conduct
 
